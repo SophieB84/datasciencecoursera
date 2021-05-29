@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-author: "Me"
+author: "Sophie"
 date: "5/29/2021"
 output: pdf_document
 ---
